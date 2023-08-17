@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BtkAkademi.Services.CouponAPI.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BtkAkademi.Services.OrderAPI.props" />
+</Project>
